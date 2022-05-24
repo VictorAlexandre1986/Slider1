@@ -2,7 +2,7 @@
 
 Carrossel de imagens manual e automático
 
-##Tecnologias utilizadas 💻
+## Tecnologias utilizadas 💻
 
 <ul>
   <li>HTML5</li>
