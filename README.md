@@ -1,5 +1,11 @@
 # Slider1
 
-Carrossel de imagens manual e automatico
+Carrossel de imagens manual e automático
 
-Feito em HTML5, CSS e Javascript
+##Tecnologias utilizadas 💻
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+</ul>
